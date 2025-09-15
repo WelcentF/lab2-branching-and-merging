@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4689744-6530-4fb0-8130-d9d2ef6ff334" name="Changes" comment="task1.1">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/recipe.md" beforeDir="false" afterPath="$PROJECT_DIR$/recipe.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,22 +24,22 @@
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="61f32cb3-a462-47ed-a193-a9b0b635475c" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/WelcentF/lab2-branching-and-merging",
-    "accountId": "61f32cb3-a462-47ed-a193-a9b0b635475c"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/WelcentF/lab2-branching-and-merging&quot;,
+    &quot;accountId&quot;: &quot;61f32cb3-a462-47ed-a193-a9b0b635475c&quot;
   },
-  "recentNewPullRequestHead": {
-    "server": {
-      "useHttp": false,
-      "host": "github.com",
-      "port": null,
-      "suffix": null
+  &quot;recentNewPullRequestHead&quot;: {
+    &quot;server&quot;: {
+      &quot;useHttp&quot;: false,
+      &quot;host&quot;: &quot;github.com&quot;,
+      &quot;port&quot;: null,
+      &quot;suffix&quot;: null
     },
-    "owner": "WelcentF",
-    "repository": "lab2-branching-and-merging"
+    &quot;owner&quot;: &quot;WelcentF&quot;,
+    &quot;repository&quot;: &quot;lab2-branching-and-merging&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -57,7 +55,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "git-widget-placeholder": "Merging main",
+    "git-widget-placeholder": "task__3",
     "kotlin-language-version-configured": "true",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
@@ -189,7 +187,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757961531319</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="task1.1">
+      <option name="closed" value="true" />
+      <created>1757961893728</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1757961893728</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
